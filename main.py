@@ -260,7 +260,7 @@ class ChatRequest(BaseModel):
 @app.get("/", response_class=HTMLResponse)
 def root():
     try:
-        with open("templates/index.html", "r", encoding="utf-8") as f:
+        with open("index.html", "r", encoding="utf-8") as f:
             return f.read()
     except FileNotFoundError:
         return "<h1>ضع ملف index.html داخل مجلد templates</h1>"

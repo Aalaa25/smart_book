@@ -1,0 +1,80 @@
+[
+  {
+    "book_id": "1",
+    "sentiment": "positive",
+    "note": "كتاب رائع جدا",
+    "timestamp": "2026-05-07T18:35:54.593329"
+  },
+  {
+    "book_id": "1984",
+    "sentiment": "neutral",
+    "note": "يبدو عادي",
+    "timestamp": "2026-05-07T18:40:43.260048"
+  },
+  {
+    "book_id": "0",
+    "sentiment": "positive",
+    "note": "",
+    "timestamp": "2026-05-07T18:41:26.382184"
+  },
+  {
+    "book_id": "1",
+    "sentiment": "positive",
+    "note": "كتاب رائع جدا",
+    "timestamp": "2026-05-08T03:47:42.630545"
+  },
+  {
+    "book_id": "unknown",
+    "sentiment": "negative",
+    "note": "مملة جداً",
+    "timestamp": "2026-05-08T03:47:48.316611"
+  },
+  {
+    "book_id": "1",
+    "sentiment": "neutral",
+    "note": "يبدو عادي",
+    "timestamp": "2026-05-08T03:47:56.067911"
+  },
+  {
+    "book_id": "unknown",
+    "sentiment": "positive",
+    "note": "اختيار رائع جداً",
+    "timestamp": "2026-05-08T03:48:06.822414"
+  },
+  {
+    "book_id": "الغريب",
+    "sentiment": "positive",
+    "note": "رائع جدا",
+    "timestamp": "2026-05-08T04:32:45.313539"
+  },
+  {
+    "book_id": "1",
+    "sentiment": "positive",
+    "note": "ممتاز! هذا اختيار رائع جداً",
+    "timestamp": "2026-05-08T04:33:07.673842"
+  },
+  {
+    "book_id": "الخيميائي",
+    "sentiment": "positive",
+    "note": "رائع",
+    "timestamp": "2026-05-08T05:12:01.059334"
+  },
+  {
+    "book_id": "كبرياء وتحامل",
+    "sentiment": "positive",
+    "note": "",
+    "timestamp": "2026-05-08T05:29:59.638874"
+  },
+  {
+    "book_id": "1",
+    "sentiment": "positive",
+    "note": "كتاب جيد",
+    "timestamp": "2026-05-08T05:30:53.600672"
+  },
+  {
+    "book_id": "1",
+    "sentiment": "positive",
+    "note": "أحبها",
+    "timestamp": "2026-05-08T05:43:21.635053"
+  }
+]
